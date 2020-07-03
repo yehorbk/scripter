@@ -1,1 +1,3 @@
-puts "Hello SSM!";
+# frozen_string_literal: true
+
+puts 'Hello SSM!'
