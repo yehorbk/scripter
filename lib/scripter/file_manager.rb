@@ -1,9 +1,9 @@
 require 'yaml'
 
-module SSM
+module Scripter
     class FileManager
         def loadFile
-            data = YAML.parse_file('ssm.yml')
+            data = YAML.parse_file('scripter.yml')
             puts(data)
         end
     end

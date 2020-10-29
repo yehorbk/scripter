@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-module SSM
+module Scripter
     def bootstrap
         
     end

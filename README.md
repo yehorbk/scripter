@@ -1,2 +1,2 @@
-# ssm
-SSM Script Manager
+# Scripter
+Scripter - Awesome Script Manager
