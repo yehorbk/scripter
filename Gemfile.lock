@@ -12,7 +12,7 @@ GEM
     parallel (1.19.2)
     parser (2.7.1.4)
       ast (~> 2.4.1)
-    rack (2.2.3)
+    rack (3.0.4.1)
     rainbow (3.0.0)
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
@@ -55,7 +55,7 @@ PLATFORMS
 DEPENDENCIES
   rspec (~> 3.9)
   rubocop-airbnb (~> 3.0, >= 3.0.2)
-  ssm!
+  scripter!
 
 BUNDLED WITH
    1.17.2
